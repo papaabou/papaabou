@@ -72,10 +72,10 @@
 | Projet | Description | Stack |
 |---|---|---|
 | [**Badge-Photo-Extractor**](https://github.com/papaabou/Badge-Photo-Extractor) · [démo](https://badge-photo-extractor.vercel.app) | Extraction des photos d'un PDF, recadrage auto par détection de visage et badges imprimables — **100 % dans le navigateur** | JavaScript · PDF.js · MediaPipe |
-| **SIV Monitor** | Supervision d'un système embarqué ferroviaire simulé : **91 % des anomalies détectées** par ML (Isolation Forest) contre 68 % avec des seuils fixes | Python · scikit-learn |
+| [**SIV-Monitor**](https://github.com/papaabou/SIV-Monitor) | Supervision d'un système embarqué ferroviaire simulé : **82 % des incidents détectés** par ML (Isolation Forest) contre 59 % avec des seuils fixes, avec moins de fausses alertes — dashboard Streamlit, tests et CI | Python · scikit-learn · Streamlit |
 | **Mini-CRM XKS** _(stage)_ | CRM interne réalisé de A à Z : clients, devis avec QR code, factures… 7 modules, 5 400 lignes, déployé sur Render | Python · Flask |
-| **Logiciel RH avec assistant IA** | Dashboard RH, alertes d'expiration automatiques, reporting PDF/Excel et chatbot pour interroger les données — livré à un client | React · PostgreSQL · API LLM |
-| **Automatisation de reporting** | Génération des PowerPoint mensuels depuis Excel (secteur pharma) : **2 jours de travail → 3 minutes** | Python · python-pptx · Tkinter |
+| [**B-RH-Intelligent**](https://github.com/papaabou/B-RH-Intelligent) | Dashboard RH, alertes d'expiration automatiques, reporting PDF/Excel et chatbot pour interroger les données — livré à un client | React · PostgreSQL · API LLM |
+| [**reporting-automation**](https://github.com/papaabou/reporting-automation) | Génération des PowerPoint mensuels depuis Excel (secteur pharma) : **2 jours de travail → 3 minutes** | Python · python-pptx · Tkinter |
 | [**projet-Mnemosyne**](https://github.com/papaabou/projet-Mnemosyne) | Suivi des cohortes étudiantes de l'IUT en diagrammes de Sankey interactifs, synchronisé avec l'API ScoDoc — _projet d'équipe (SAÉ)_ | Python · Flask · SQLite · JS |
 
 ### 📊 Statistiques GitHub
