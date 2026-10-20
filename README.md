@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**papaabou/papaabou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<h1 align="center">Salut, moi c'est Papa Abou Mbaye 👋</h1>
+<h1 align="center">Salut, moi c'est Papa Abou Mbaye 👋</h1>
 <h3 align="center">Étudiant BUT3 Informatique · Développeur Full-Stack · Systèmes & Réseaux · Data & IA</h3>
 
 <p align="center">
@@ -82,9 +73,3 @@ Here are some ideas to get you started:
 ---
 
 <p align="center"><i>Toujours partant pour un nouveau projet, un hackathon ou une discussion tech — n'hésite pas à me contacter !</i></p>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
